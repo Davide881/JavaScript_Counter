@@ -8,7 +8,7 @@ A simple counter that will help you out with counting numbers.
 
 ## Getting Started
 
-Check it out! https://davide881.github.io/JavaScript-Counter/
+Check it out! https://davide881.github.io/JavaScript_Counter/
 
 ## Authors
 
