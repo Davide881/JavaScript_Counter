@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: #000;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#cardBody {
+    background: grey;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+#cardBody button {
+    border-radius: 10px;
+    color: black;
+    padding: 10px 35px;
+    border: 0;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.counter {
+    font-size: 100px;
+}
